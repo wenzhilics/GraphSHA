@@ -1,6 +1,6 @@
 # GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification
 
-Implementation of KDD'23 paper "GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification."
+Implementation of KDD'23 paper [GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification](https://arxiv.org/abs/2306.09612).
 
 ![image-20220520144825959](GraphSHA_thumbnail.png)
 
@@ -47,11 +47,11 @@ The code is implemented based on [GraphENS](https://github.com/JoonHyung-Park/Gr
 If you find this work is helpful to your research, please consider citing our paper:
 
 ```
-@inproceedings{li2023graphsha,
-  author       = {Wen{-}Zhi Li and Chang{-}Dong Wang and Hui Xiong and Jian{-}Huang Lai},
-  title        = {GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification},
-  booktitle    = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  year         = {2023}
+@article{li2023graphsha,
+  title={GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification},
+  author={Wen-Zhi Li and Chang-Dong Wang and Hui Xiong and Jian-Huang Lai},
+  journal={arXiv preprint arXiv:2306.09612},
+  year={2023}
 }
 ```
 
